@@ -1,6 +1,3 @@
-Here is a professional, comprehensive `README.md` designed specifically for your **CureMap** project. It highlights the engineering complexity of your multi-stack system and the scientific depth of your research.
-
----
 
 # CureMap: Mapping Cancer Drug Response using Multi-Omics
 
